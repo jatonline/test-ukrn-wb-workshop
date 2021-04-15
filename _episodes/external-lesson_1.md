@@ -1,6 +1,6 @@
 ---
 title: Anonymizing Quantitative Data
-teaching: null
+teaching: 10
 exercises: 30
 duration: null
 summary: In this lesson we will collaboratively build a checklist to help us in
