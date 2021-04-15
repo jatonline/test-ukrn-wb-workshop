@@ -26,6 +26,13 @@ dependencies: []
 originalRepository: mjaquiery/ukrn-wb-lesson-examples
 
 ---
+## Added content
+
+> * step 1
+> * step 2
+> * step 3
+{: .chercklist}
+
 ## What is anonymisation?
 
 Anonymisation is the process of turning data from which individual people can be identified into data from which individual people cannot be identified.
