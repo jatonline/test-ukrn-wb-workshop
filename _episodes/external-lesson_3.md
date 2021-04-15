@@ -1,8 +1,8 @@
 ---
 title: Licenses for Data
-teaching: 5
+teaching: 15
 exercises: 25
-duration: null
+duration: 10
 summary: A discussion about data licensing - what kind of options are there, and
   what are the pros and cons?
 questions:
